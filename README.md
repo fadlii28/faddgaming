@@ -1,2 +1,2 @@
-# faddgaming
-HackingSlow
+# untuk belajar
+
